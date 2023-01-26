@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/SachTak/static/css/main.073c9b0a.css",
+    "main.js": "/SachTak/static/js/main.237be0f2.js",
+    "static/js/787.4c026eef.chunk.js": "/SachTak/static/js/787.4c026eef.chunk.js",
+    "index.html": "/SachTak/index.html",
+    "main.073c9b0a.css.map": "/SachTak/static/css/main.073c9b0a.css.map",
+    "main.237be0f2.js.map": "/SachTak/static/js/main.237be0f2.js.map",
+    "787.4c026eef.chunk.js.map": "/SachTak/static/js/787.4c026eef.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.237be0f2.js"
+  ]
+}
